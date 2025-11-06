@@ -1,0 +1,2377 @@
+<section class="vspl__section--grid-column-2 vspl__deepdives" data-section="&lt;!-- templates/cat-microsite-tpl.php --&gt;" id="vspl__deep-dive">
+  <div class="vspl__container">
+    <div class="vspl__section--title position-relative d-flex align-items-center space__bottom--title">
+      <div class="vspl__section--title--wrapper">
+        <figure class="vspl__section--title--icon" style="opacity: 0.2;"><svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 14.746 14.782">
+            <path id="Path_29" data-name="Path 29" d="M10.531,6.115H8.645V4.232A4.226,4.226,0,0,0,4.423,0h-.2A4.226,4.226,0,0,0,0,4.232v10.55H10.518a4.234,4.234,0,0,0,4.228-4.238v-.2a4.22,4.22,0,0,0-4.214-4.226" transform="translate(0)" fill="#004697" fill-rule="evenodd"></path>
+          </svg></figure>
+        <h2 class="vspl__section--title--txt">कहानियाँ</h2>
+      </div>
+    </div>
+    <div class="vspl__row vspl__row--flex __story_slider" data-id="vspl__deepdives">
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;October 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:159255,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;August 28, 2025&quot;,&quot;position&quot;:1}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-10609296">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="August 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/hindi-betterindia/media/media_files/2025/10/31/burger-business-1-1691474928-1024x580-2025-10-31-15-52-51.webp">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">October 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;September 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:159058,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;July 21, 2025&quot;,&quot;position&quot;:2}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-from-the-better-india-story-10519436">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="September 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://img-cdn.publive.online/fit-in/1280x960/filters:format(webp)/hindi-betterindia/media/media_files/2025/10/01/impact-3-2025-10-01-14-48-35.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">September 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;August 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:159255,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;August 28, 2025&quot;,&quot;position&quot;:1}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/august-2025-%e0%a4%87%e0%a4%a8-%e0%a4%97%e0%a5%81%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%ae-%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%8b-%e0%a4%86%e0%a4%aa%e0%a4%a8%e0%a5%87/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="August 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/08/impact-Hariom-nautiyal-1-1756373281.png" style="width: 1084px;">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">August 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;July 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:159058,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;July 21, 2025&quot;,&quot;position&quot;:2}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/july-2025-%e0%a4%87%e0%a4%a8-%e0%a4%97%e0%a5%81%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%ae-%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%8b-%e0%a4%86%e0%a4%aa%e0%a4%a8%e0%a5%87/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="July 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/07/Ramesh-kharamle-1-1-1753095521.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">July 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0938\u0947 \u0907\u0938 \u0917\u0930\u094d\u092e\u0940 \u092e\u0947\u0902 125 \u0908\u0902\u091f \u092d\u091f\u094d\u0920\u093e \u092e\u091c\u093c\u0926\u0942\u0930\u094b\u0902 \u0915\u094b \u092e\u093f\u0932\u0940 \u090f\u0915 \u0938\u092e\u0930 \u0915\u093f\u091f&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158896,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;June 18, 2025&quot;,&quot;position&quot;:3}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/%e0%a4%86%e0%a4%aa%e0%a4%95%e0%a5%80-%e0%a4%ae%e0%a4%a6%e0%a4%a6-%e0%a4%b8%e0%a5%87-%e0%a4%87%e0%a4%b8-%e0%a4%97%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a5%80-%e0%a4%ae%e0%a5%87%e0%a4%82-125-%e0%a4%88%e0%a4%82/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="आपकी मदद से इस गर्मी में 125 ईंट भट्ठा मज़दूरों को मिली एक समर किट" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/06/impact-photo-1-1750244654.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">आपकी मदद से इस गर्मी में 125 ईंट भट्ठा मज़दूरों को मिली एक समर किट</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;June 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158845,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;June 9, 2025&quot;,&quot;position&quot;:4}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/june-2025-%e0%a4%87%e0%a4%a8-%e0%a4%97%e0%a5%81%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%ae-%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%8b-%e0%a4%86%e0%a4%aa%e0%a4%a8%e0%a5%87/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="June 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/06/Untitleddesign10-1749473373.jpeg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">June 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;May 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158751,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;May 29, 2025&quot;,&quot;position&quot;:5}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/may-2025-%e0%a4%87%e0%a4%a8-%e0%a4%97%e0%a5%81%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%ae-%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%8b-%e0%a4%86%e0%a4%aa%e0%a4%a8%e0%a5%87/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="May 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/05/impact-1-1748523542.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">May 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;500 \u0906\u0926\u093f\u0935\u093e\u0938\u0940 \u0918\u0930\u094b\u0902 \u0924\u0915 \u092a\u0939\u0941\u0902\u091a\u0947\u0902 \u0938\u094b\u0932\u0930 \u092a\u0902\u0916\u0947\u0902&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158701,&quot;article_topic&quot;:&quot;\u0939\u093f\u0902\u0926\u0940 | impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;May 19, 2025&quot;,&quot;position&quot;:6}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/500-%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80-%e0%a4%98%e0%a4%b0%e0%a5%8b%e0%a4%82-%e0%a4%a4%e0%a4%95-%e0%a4%aa%e0%a4%b9%e0%a5%81%e0%a4%82%e0%a4%9a%e0%a5%87%e0%a4%82-%e0%a4%b8/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="500 आदिवासी घरों तक पहुंचें सोलर पंखें" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/05/1t1-1-1747663057.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">500 आदिवासी घरों तक पहुंचें सोलर पंखें</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;April 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158631,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;April 21, 2025&quot;,&quot;position&quot;:7}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/april-2025-%e0%a4%87%e0%a4%a8-%e0%a4%97%e0%a5%81%e0%a4%ae%e0%a4%a8%e0%a4%be%e0%a4%ae-%e0%a4%a8%e0%a4%be%e0%a4%af%e0%a4%95%e0%a5%8b%e0%a4%82-%e0%a4%95%e0%a5%8b-%e0%a4%86%e0%a4%aa%e0%a4%a8%e0%a5%87/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="April 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/01/Impact-1-1737701825.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">April 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;March 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158544,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;March 31, 2025&quot;,&quot;position&quot;:8}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-from-the-better-india-story-2/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="March 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/01/Impact-1-1737701825.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">March 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;February 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158390,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;February 20, 2025&quot;,&quot;position&quot;:9}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-from-the-better-india-story/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="February 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/01/Impact-1-1737701825.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">February 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0936\u0941\u0915\u094d\u0930\u093f\u092f\u093e! \u0906\u092a\u0915\u0940 \u0935\u091c\u0939 \u0938\u0947 \u092c\u0928\u093e\u0930\u0938 \u0918\u093e\u091f \u092a\u0930 \u0930\u0939\u0928\u0947 \u0935\u093e\u0932\u0947 1400 \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u092a\u093e\u0938 \u0915\u0902\u092c\u0932 \u0939\u0948&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158342,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;February 7, 2025&quot;,&quot;position&quot;:10}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-campaign-for-homeless-people-in-banaras-ghat/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="शुक्रिया! आपकी वजह से बनारस घाट पर रहने वाले 1400 लोगों के पास कंबल है" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/02/Untitled-design-3-1-1738906123.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">शुक्रिया! आपकी वजह से बनारस घाट पर रहने वाले 1400 लोगों के पास कंबल है</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u090f\u0915 \u092c\u0947\u0939\u0926 \u091c\u093c\u0930\u0942\u0930\u0940 \u092e\u0941\u0926\u094d\u0926\u0947 \u0915\u094b \u0907\u0938 \u0935\u0940\u0921\u093f\u092f\u094b \u0915\u0947 \u091c\u0930\u093f\u090f \u0915\u0930\u094b\u0921\u093c\u094b\u0902 \u0932\u094b\u0917\u094b\u0902 \u0924\u0915 \u092a\u0939\u0941\u0901\u091a\u093e\u0928\u0947 \u0915\u093e \u0936\u0941\u0915\u094d\u0930\u093f\u092f\u093e&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158326,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;February 4, 2025&quot;,&quot;position&quot;:11}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-from-a-story-thanks-to-our-viewers/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="एक बेहद ज़रूरी मुद्दे को इस वीडियो के जरिए करोड़ों लोगों तक पहुँचाने का शुक्रिया" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/02/Hindi-Thumbnail-1738677568.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">एक बेहद ज़रूरी मुद्दे को इस वीडियो के जरिए करोड़ों लोगों तक पहुँचाने का शुक्रिया</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;January 2025: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:158258,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;January 24, 2025&quot;,&quot;position&quot;:12}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-from-the-better-india-stories-january-2025/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="January 2025: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2025/01/Impact-1-1737701825.png">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">January 2025: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0938\u093e\u0932 2024: \u0907\u0928 \u0917\u0941\u092e\u0928\u093e\u092e \u0928\u093e\u092f\u0915\u094b\u0902 \u0915\u094b \u0906\u092a\u0928\u0947 \u0926\u0940 \u092a\u0939\u091a\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:157722,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;September 25, 2024&quot;,&quot;position&quot;:13}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-stories-of-the-better-india-hindi/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="साल 2024: इन गुमनाम नायकों को आपने दी पहचान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2024/09/impact-2024-1-1727261826.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">साल 2024: इन गुमनाम नायकों को आपने दी पहचान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930,  \u092c\u0947\u091c\u0941\u092c\u093e\u0928\u094b\u0902 \u0915\u0940 \u092e\u0926\u0926 \u0915\u0947 \u0932\u093f\u090f \u0906\u0917\u0947 \u0906\u090f\u0902 100+ \u092a\u0936\u0941 \u092a\u094d\u0930\u0947\u092e\u0940&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:157712,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;September 24, 2024&quot;,&quot;position&quot;:14}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-stories-from-the-better-india-bangla/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर,  बेजुबानों की मदद के लिए आगे आएं 100+ पशु प्रेमी" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2024/09/TBI-Impact--1727173179.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर, बेजुबानों की मदद के लिए आगे आएं 100+ पशु प्रेमी</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0936\u0941\u0915\u094d\u0930\u093f\u092f\u093e! \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0938\u0947 1000 \u091c\u0930\u0942\u0930\u0924\u092e\u0902\u0926 \u092c\u091a\u094d\u091a\u094b\u0902 \u0924\u0915 \u092a\u0939\u0941\u0902\u091a\u0947 \u0938\u094d\u0915\u0942\u0932 \u0915\u093f\u091f&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:157671,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;September 16, 2024&quot;,&quot;position&quot;:15}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/1000-school-kit-given-to-needy-kids-the-better-india-impact/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="शुक्रिया! आपकी मदद से 1000 जरूरतमंद बच्चों तक पहुंचे स्कूल किट" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2024/09/Impact-from-The-Better-India--1726493429.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">शुक्रिया! आपकी मदद से 1000 जरूरतमंद बच्चों तक पहुंचे स्कूल किट</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930, AC \u090f\u092f\u0930 \u092a\u094d\u092f\u0942\u0930\u0940\u092b\u093e\u092f\u0930 \u092a\u0939\u0941\u0902\u091a\u093e 3000 \u0918\u0930\u094b\u0902 \u0924\u0915&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:157046,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;July 4, 2024&quot;,&quot;position&quot;:16}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/%e0%a4%a6-%e0%a4%ac%e0%a5%87%e0%a4%9f%e0%a4%b0-%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be-%e0%a4%95%e0%a5%80-%e0%a4%95%e0%a4%b9%e0%a4%be%e0%a4%a8%e0%a5%80-%e0%a4%95%e0%a4%be-%e0%a4%85/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर, AC एयर प्यूरीफायर पहुंचा 3000 घरों तक" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2024/07/Add-a-heading-1720077478.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर, AC एयर प्यूरीफायर पहुंचा 3000 घरों तक</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0936\u0941\u0915\u094d\u0930\u093f\u092f\u093e! \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0938\u0947 5000 \u092e\u091c\u0926\u0942\u0930\u094b\u0902 \u0915\u094b \u092e\u093f\u0932\u0940 \u092a\u0939\u0928\u0928\u0947 \u0915\u094b \u091a\u092a\u094d\u092a\u0932&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:156938,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;June 20, 2024&quot;,&quot;position&quot;:17}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/labourer-got-slipper-thanks-to-your-support/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="शुक्रिया! आपकी मदद से 5000 मजदूरों को मिली पहनने को चप्पल" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2024/06/Campaign_3-1718889822.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">शुक्रिया! आपकी मदद से 5000 मजदूरों को मिली पहनने को चप्पल</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930, \u0917\u093e\u0902\u0935 \u0915\u0947 \u090f\u0917\u094d\u0930\u094b \u091f\u0942\u0930\u093f\u091c\u094d\u092e \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 10 \u0939\u091c\u093c\u093e\u0930 \u0915\u093f\u0938\u093e\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:154154,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;November 24, 2023&quot;,&quot;position&quot;:18}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-of-the-better-india-story-on-agro-tourism-getting-response-from-all-india/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर, गांव के एग्रो टूरिज्म से जुड़े 10 हज़ार किसान" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2023/11/Hindi-Thumbnail-4-1700805824.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर, गांव के एग्रो टूरिज्म से जुड़े 10 हज़ार किसान</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u092a\u0939\u0932 \u0915\u093e \u0905\u0938\u0930! \u091c\u093c\u0930\u0942\u0930\u0924\u092e\u0902\u0926\u094b\u0902 \u0924\u0915 \u092a\u0939\u0941\u0901\u091a\u0940 \u0916\u0941\u0936\u093f\u092f\u094b\u0902 \u0915\u0940 \u0925\u093e\u0932\u0940&quot;,&quot;author_name&quot;:&quot;\u092d\u093e\u0935\u0928\u093e \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935&quot;,&quot;article_id&quot;:153800,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;November 7, 2023&quot;,&quot;position&quot;:19}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-the-better-india-hindi-swapna-foundation-food-drive/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की पहल का असर! ज़रूरतमंदों तक पहुँची खुशियों की थाली" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2023/11/Impact-Story--1699332069.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की पहल का असर! ज़रूरतमंदों तक पहुँची खुशियों की थाली</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0938\u0947 \u0917\u093e\u0930\u094d\u0921\u0928\u093f\u0902\u0917 \u0938\u0940\u0916\u0915\u0930 \u092c\u0928\u0940\u0902 \u0905\u0930\u094d\u092c\u0928 \u0917\u093e\u0930\u094d\u0921\u0928\u0930, \u091b\u0924 \u092a\u0930 \u0939\u0940 \u0909\u0917\u093e\u090f 20 \u0924\u0930\u0939 \u0915\u0947 \u092b\u0932&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:151449,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;August 16, 2023&quot;,&quot;position&quot;:20}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/gardening-stories-in-the-better-india-hindi-helped-to-build-terrace-garden/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया से गार्डनिंग सीखकर बनीं अर्बन गार्डनर, छत पर ही उगाए 20 तरह के फल" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2023/08/maxresdefault-28-1692160184.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया से गार्डनिंग सीखकर बनीं अर्बन गार्डनर, छत पर ही उगाए 20 तरह के फल</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930, \u0935\u0930\u094d\u092e\u0940\u0915\u092e\u094d\u092a\u094b\u0938\u094d\u091f \u0915\u093e \u0915\u093e\u092e 200 \u092c\u0947\u0921\u094d\u0938 \u0938\u0947 \u092c\u0922\u093c\u0915\u0930 \u092a\u0939\u0941\u0902\u091a\u093e 1100 \u0924\u0915&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:144495,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;February 23, 2023&quot;,&quot;position&quot;:21}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/impact-of-the-story-vermicompost-business-reached-nationwide/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर, वर्मीकम्पोस्ट का काम 200 बेड्स से बढ़कर पहुंचा 1100 तक" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2023/02/dr-organic-vermicompost-1-165116-1677141878.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर, वर्मीकम्पोस्ट का काम 200 बेड्स से बढ़कर पहुंचा 1100 तक</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;&amp;#039;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e&amp;#039; \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930, \u0930\u094b\u0921 \u0938\u0947 \u0936\u0941\u0930\u0942 \u0939\u0941\u090f \u092c\u0948\u092e\u094d\u092c\u0942 \u092c\u093f\u091c\u093c\u0928\u0947\u0938 \u0915\u094b \u0926\u0947\u0936\u092d\u0930 \u0938\u0947 \u092e\u093f\u0932\u0947 \u0911\u0930\u094d\u0921\u0930\u094d\u0938&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:132378,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;November 1, 2022&quot;,&quot;position&quot;:22}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/the-better-india-story-helps-bamboo-business-get-orders-across-country/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="'द बेटर इंडिया' की कहानी का असर, रोड से शुरू हुए बैम्बू बिज़नेस को देशभर से मिले ऑर्डर्स" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2022/10/bamboo-business-Impact-story-1667200517.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">&lsquo;द बेटर इंडिया&rsquo; की कहानी का असर, रोड से शुरू हुए बैम्बू बिज़नेस को देशभर से मिले ऑर्डर्स</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930, \u0938\u0924\u094d\u092f\u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u0947 \u092c\u093f\u095b\u0928\u0947\u0938 \u0938\u0947 \u091c\u0941\u095c\u0928\u093e \u091a\u093e\u0939 \u0930\u0939\u0947 \u0926\u0947\u0936\u092d\u0930 \u0938\u0947 \u0926\u093f\u0935\u094d\u092f\u093e\u0902\u0917\u091c\u0928&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:110761,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;June 3, 2022&quot;,&quot;position&quot;:23}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/masala-business-story-of-satyaprakash-inspired-many-handicapped/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर, सत्यप्रकाश के बिज़नेस से जुड़ना चाह रहे देशभर से दिव्यांगजन" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2022/06/Masala-business-of-Satyaprakash-Malviya-Varanasi-1654261140.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर, सत्यप्रकाश के बिज़नेस से जुड़ना चाह रहे देशभर से दिव्यांगजन</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+      <div class="vspl__row--grid-3 vspl__deepdives--item" data-article="{&quot;article_name&quot;:&quot;\u0926 \u092c\u0947\u091f\u0930 \u0907\u0902\u0921\u093f\u092f\u093e \u0915\u0940 \u0915\u0939\u093e\u0928\u0940 \u0915\u093e \u0905\u0938\u0930! \u0938\u0941\u0926\u093e\u092e \u0938\u093e\u0939\u0942 \u0915\u094b \u0926\u0947\u0936\u092d\u0930 \u0938\u0947 \u092e\u093f\u0932\u0947 4000 \u0915\u094d\u0935\u093f\u0902\u091f\u0932 \u0926\u0947\u0938\u0940 \u092c\u0940\u091c\u094b\u0902 \u0915\u0947 \u0911\u0930\u094d\u0921\u0930&quot;,&quot;author_name&quot;:&quot;\u092a\u094d\u0930\u0940\u0924\u093f \u091f\u094c\u0902\u0915&quot;,&quot;article_id&quot;:107213,&quot;article_topic&quot;:&quot;impact&quot;,&quot;article_section&quot;:&quot;category -impact&quot;,&quot;article_location&quot;:&quot;impact page&quot;,&quot;publish_date&quot;:&quot;April 28, 2022&quot;,&quot;position&quot;:24}" data-element="article"><a class="vspl__dd-item height-auto strach-full border-default-radius d-block primary-bg" data-element="href" href="https://hindi.thebetterindia.com/impact/indigenous-seed-bank-by-odisha-farmer-get-many-orders-after-tbi-story/">
+          <figure class="vspl__dd-item--img"><img align="middle" alt="द बेटर इंडिया की कहानी का असर! सुदाम साहू को देशभर से मिले 4000 क्विंटल देसी बीजों के ऑर्डर" class="vspl__thumb vspl__thumb--deep-dive border-default-radius" decoding="async" loading="lazy" property="image" src="https://hi-media.thebetterindia.com/uploads/2022/04/sudam-sahu-1651137718.jpg">
+            <figcaption class="p-1">
+              <h3 class="vspl__label text-white">द बेटर इंडिया की कहानी का असर! सुदाम साहू को देशभर से मिले 4000 क्विंटल देसी बीजों के ऑर्डर</h3>
+            </figcaption>
+          </figure>
+        </a></div>
+    </div>
+  </div>
+</section>
+
+
+============================================================================
+
+
+@media all {
+  ul {
+    box-sizing: border-box
+  }
+
+  :where(figure) {
+    margin: 0 0 1em
+  }
+
+  .col-xs-12 {
+    box-sizing: border-box;
+    flex-basis: 100%;
+    max-width: 100%;
+    padding: 1rem
+  }
+
+  @media only screen and (min-width:41rem) {
+    .col-sm-6 {
+      box-sizing: border-box;
+      flex-basis: 50%;
+      max-width: 50%;
+      padding: 1rem
+    }
+
+    .col-sm-12 {
+      box-sizing: border-box;
+      flex-basis: 100%;
+      max-width: 100%;
+      padding: 1rem
+    }
+  }
+
+  @media only screen and (min-width:65rem) {
+    .col-md-3 {
+      box-sizing: border-box;
+      flex-basis: 25%;
+      max-width: 25%;
+      padding: 1rem
+    }
+
+    .col-md-12 {
+      box-sizing: border-box;
+      flex-basis: 100%;
+      max-width: 100%;
+      padding: 1rem
+    }
+  }
+
+  @media only screen and (min-width:91rem) {
+    .col-lg-3 {
+      box-sizing: border-box;
+      flex-basis: 25%;
+      max-width: 25%;
+      padding: 1rem
+    }
+
+    .col-lg-12 {
+      box-sizing: border-box;
+      flex-basis: 100%;
+      max-width: 100%;
+      padding: 1rem
+    }
+  }
+
+  @font-face {
+    font-family: Kadwa;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+  }
+
+  iframe {
+    margin-bottom: 1.5rem
+  }
+
+  .vspl__scrolltop {
+    display: none;
+    padding: .5rem;
+    border: 2px solid #004697;
+    border-radius: 50%;
+    right: 3rem;
+    bottom: 2rem;
+    z-index: 10
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__scrolltop {
+      right: 1rem;
+      bottom: 7rem
+    }
+
+    .vspl__scrolltop img {
+      width: 3rem
+    }
+  }
+
+  @media only screen and (max-height:612px) {
+    .vspl__scrolltop {
+      display: none
+    }
+  }
+
+  @font-face {
+    font-family: Kadwa;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+  }
+
+  h1 {
+    font-family: Kadwa, serif;
+    font-size: 2.5rem;
+    line-height: 1.8;
+    color: #555;
+    font-weight: 700;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h1 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h1 {
+      font-size: 3rem
+    }
+  }
+
+  @media screen and (min-width:1280px) {
+    h1 {
+      font-size: 3.2rem
+    }
+  }
+
+  h2 {
+    font-family: Kadwa, serif;
+    font-size: 2.3rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h2 {
+      font-size: 2.6rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h2 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h2 {
+      font-size: 3rem
+    }
+  }
+
+  h3 {
+    font-family: Kadwa, serif;
+    font-size: 2.1rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h3 {
+      font-size: 2.4rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h3 {
+      font-size: 2.6rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h3 {
+      font-size: 2.8rem
+    }
+  }
+
+  h4 {
+    font-family: Kadwa, serif;
+    font-size: 1.7rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h4 {
+      font-size: 1.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h4 {
+      font-size: 2.2rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h4 {
+      font-size: 2.4rem
+    }
+  }
+
+  p {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: #555;
+    margin: 0 0 10px
+  }
+
+  @media screen and (min-width:1600px) {
+    p {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__popup--wrapper {
+    z-index: 1000
+  }
+
+  #vspl__deep-dive,
+  #vspl__deep-dive figcaption h3 {
+    margin-bottom: 0
+  }
+
+  .vspl__video-stories figcaption h3 {
+    color: #555;
+    font-style: normal;
+    line-height: 1.7;
+    font-size: 1.5rem
+  }
+
+  .vspl__deepdives--item:first-child {
+    margin-left: 0
+  }
+
+  .vspl__dd-item {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0/.16);
+    scroll-snap-align: center
+  }
+
+  .vspl__dd-item img {
+    min-height: 150px
+  }
+
+  .vspl__kk--ytvideo {
+    width: 100%
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__kk--ytvideo {
+      width: calc(100%/3 - 1.8rem)
+    }
+  }
+
+  .vspl__kk--ytvideo--img {
+    max-height: 180px !important
+  }
+
+  .vspl__safalnama--banner-playBtn {
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    background: #0000003d
+  }
+
+  .vspl__safalnama--banner-playBtn-icon {
+    width: 32px !important
+  }
+
+  @media screen and (min-width:1280px) {
+    .vspl__safalnama--banner-playBtn-icon {
+      width: 50px !important
+    }
+  }
+
+  .vspl__kk--banner img,
+  .vspl__safalnama--banner img {
+    display: block;
+    width: 100%;
+    height: auto
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__safalnama--video-card {
+      padding: .5rem
+    }
+
+    .vspl__safalnama--video-card:nth-child(3n+1) {
+      margin-left: 0
+    }
+  }
+
+  .vspl__kk--video-card-inner,
+  .vspl__safalnama--video-card-inner {
+    height: 21.9rem;
+    box-shadow: 0 3px 6px 0#0000003b
+  }
+
+  .vspl__kk--video-card-inner.height-auto,
+  .vspl__safalnama--video-card-inner.height-auto {
+    height: auto
+  }
+
+  @font-face {
+    font-family: Kadwa;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+  }
+
+  * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box
+  }
+
+  
+
+  button {
+    color: inherit
+  }
+
+  .vspl__popup--wrapper {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgb(0 0 0/.7);
+    visibility: hidden;
+    opacity: 0
+  }
+
+  .vspl__popup--close {
+    padding: 5px 14px;
+    top: -32px;
+    right: 0;
+    font-size: 18px
+  }
+
+  .vspl__popup--inner {
+    width: 90%;
+    max-width: 720px;
+    margin: 0 auto;
+    position: relative
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__popup--inner {
+      width: 100%
+    }
+  }
+
+  .vspl__popup--body {
+    margin: 0 auto
+  }
+
+  .vspl__popup--video .youtube-video-container {
+    padding-bottom: 56.25%
+  }
+
+  html {
+    font-size: 62.5%
+  }
+
+  body {
+    background-color: #fff0;
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    letter-spacing: .5px;
+    text-size-adjust: none;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+  }
+
+  a {
+    color: #004697;
+    text-decoration: none
+  }
+
+  body {
+    color: #303030
+  }
+
+  .vspl__container {
+    width: 100%;
+    max-width: 120rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+    position: relative
+  }
+
+  @media screen and (min-width:1280px) {
+    .vspl__container {
+      padding: 0 7.5rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__container {
+      max-width: 148rem;
+      padding: 0 12.7rem
+    }
+  }
+
+  .vspl__container__fluid {
+    width: 100%;
+    padding: 0 2rem
+  }
+
+  @media screen and (min-width:1280px) {
+    .vspl__container__fluid {
+      padding: 0 7.5rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__container__fluid {
+      padding: 0 12.7rem
+    }
+  }
+
+  .vspl__section--page h2,
+  .vspl__section--page iframe,
+  .vspl__section--page p {
+    margin-top: .2rem;
+    margin-bottom: 1.2rem
+  }
+
+  .vspl__section--page p {
+    padding-left: 15px;
+    font-size: 1.6rem;
+    color: #000
+  }
+
+  .vspl__section--page p span,
+  body {
+    line-height: 1.2
+  }
+
+  .vspl__section--page p+h2 {
+    margin-bottom: 1.6rem
+  }
+
+  .vspl__thumb--play-wrap {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background: #00000030;
+    z-index: 1
+  }
+
+  .vspl__thumb--play-wrap img {
+    width: 32px !important;
+    height: auto !important
+  }
+
+  .vspl__thumb--social-icon {
+    width: 100%;
+    max-width: 28px
+  }
+
+  .vspl__section--header {
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    float: left
+  }
+
+  .vspl__row--flex {
+    display: grid;
+grid-template-columns: repeat(1, 1fr);
+  }
+
+  .p-0 {
+    padding: 0 !important
+  }
+
+  .p-1 {
+    padding: 1rem !important
+  }
+
+  .p-2 {
+    padding: 2rem !important
+  }
+
+  .p-3 {
+    padding: 3rem !important
+  }
+
+  .py-0 {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important
+  }
+
+  .py-1 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important
+  }
+
+  .py-2 {
+    padding-top: 2rem !important;
+    padding-bottom: 2rem !important
+  }
+
+  figure,
+  img {
+    max-width: 100%
+  }
+
+  .m-auto {
+    margin: 0 auto
+  }
+
+  img {
+    height: auto;
+    vertical-align: top
+  }
+
+
+
+  .vspl__row--grid-4--image-wp figure,
+  li>ul {
+    margin-bottom: 0
+  }
+
+  ul {
+    margin: 0;
+    list-style: disc
+  }
+
+
+  li {
+    margin: 0;
+    padding: 0
+  }
+
+  ul {
+    padding: 0 0 0 15px
+  }
+@media screen and (max-width:576px) {
+.lang-toggle
+{
+left:8rem !important;
+}
+}
+
+  @media screen and (min-width:576px) {
+    h1 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h1 {
+      font-size: 3rem
+    }
+  }
+
+  @media screen and (min-width:1280px) {
+    h1 {
+      font-size: 3.2rem
+    }
+  }
+
+  @media screen and (min-width:576px) {
+    h2 {
+      font-size: 2.6rem
+    }
+  .vspl__row--flex {
+    display: grid;
+grid-template-columns: repeat(2, 1fr);
+  }
+  }
+
+  @media screen and (min-width:1024px) {
+    h2 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h2 {
+      font-size: 3rem
+    }
+  }
+
+  @media screen and (min-width:576px) {
+    h3 {
+      font-size: 2.4rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h3 {
+      font-size: 2.6rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h3 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:576px) {
+    h4 {
+      font-size: 1.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h4 {
+      font-size: 2.2rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h4 {
+      font-size: 2.4rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    p {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .visible-desktop-mobile {
+    display: none !important
+  }
+
+  @media screen and (min-width:768px) {
+    .visible-desktop-mobile {
+      display: block !important
+    }
+  .vspl__row--flex {
+    display: grid;
+grid-template-columns: repeat(3, 1fr);
+  }
+  }
+
+  .strach-full {
+    width: 100%
+  }
+
+  .float-start {
+    float: left
+  }
+
+  .float-end {
+    float: right
+  }
+
+  .position-relative {
+    position: relative
+  }
+
+  .position-absolute {
+    position: absolute
+  }
+
+  .position-fixed {
+    position: fixed
+  }
+
+  .overflow-hidden {
+    overflow: hidden
+  }
+
+  .d-inline-block {
+    display: inline-block
+  }
+
+  .d-block {
+    display: block
+  }
+
+  .d-flex {
+    display: flex
+  }
+
+  .d-none {
+    display: none
+  }
+
+  .flex-shrink {
+    flex-shrink: 0
+  }
+
+  .flex-column {
+    flex-direction: column
+  }
+
+  .flex-wrap {
+    flex-wrap: wrap
+  }
+
+  .justify-content-end {
+    justify-content: flex-end
+  }
+
+  .justify-content-center {
+    justify-content: center
+  }
+
+  .justify-content-between {
+    justify-content: space-between
+  }
+
+  .align-items-center {
+    align-items: center
+  }
+
+  .align-content-center {
+    align-content: center
+  }
+
+  .m-0 {
+    margin: 0 !important
+  }
+
+  .mt-2 {
+    margin-top: 2rem !important
+  }
+
+  .mt-3 {
+    margin-top: 3rem !important
+  }
+
+  .mt-4 {
+    margin-top: 4rem !important
+  }
+
+  .mb-0 {
+    margin-bottom: 0 !important
+  }
+
+  .mb-1 {
+    margin-bottom: 1rem !important
+  }
+
+  .mb-2 {
+    margin-bottom: 2rem !important
+  }
+
+  .mb-3 {
+    margin-bottom: 3rem !important
+  }
+
+  .mb-4 {
+    margin-bottom: 4rem !important
+  }
+
+  .ms-1 {
+    margin-left: 1rem !important
+  }
+
+  .text-start {
+    text-align: left
+  }
+
+  .text-end {
+    text-align: right
+  }
+
+  .text-center {
+    text-align: center
+  }
+
+  .text-uppercase {
+    text-transform: uppercase
+  }
+
+  .primary-bg {
+    background-color: #004697
+  }
+
+  .secondary-color {
+    color: #59f3b9
+  }
+
+  .text-white {
+    color: #fff !important
+  }
+
+  .bg-white {
+    background: #fff
+  }
+
+  .space__top {
+    margin-top: 4rem
+  }
+
+  @media screen and (min-width:576px) {
+    .space__top {
+      margin-top: 6rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    .space__top {
+      margin-top: 9rem
+    }
+  }
+
+  .space__bottom,
+  .space__bottom--title {
+    margin-bottom: 2rem
+  }
+
+  .vspl_svg_full_strech {
+    width: 100%;
+    height: 100%;
+    float: left
+  }
+
+  .down_arrow {
+    width: 1.34rem;
+    height: .86rem;
+    margin-left: .5rem
+  }
+
+  .down_arrow path {
+    fill: #004697
+  }
+
+  .vspl__site--header.whitemneu .vspl__site--header--language--lang--value i svg path {
+    fill: #fff
+  }
+
+  .link__rightarrow {
+    width: .643rem;
+    height: 1.413rem
+  }
+
+  .link__rightarrow path {
+    fill: #fff;
+    opacity: .5
+  }
+
+  ._image {
+    position: relative
+  }
+
+  ._image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center
+  }
+
+  ._image {
+    overflow: hidden
+  }
+
+  .vspl__overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 0;
+    background-color: rgb(0 0 0/.4)
+  }
+
+  .border-default-radius {
+    border-top-right-radius: 1.6rem
+  }
+
+  .vspl__section--inner-banner .heading h1 {
+    color: #fff
+  }
+
+  .vspl__site--header--logo a.logo img.site-logo {
+    display: block
+  }
+
+  .vspl__section--inner-banner {
+    width: 100%;
+    height: 50vh;
+    position: relative;
+    float: left
+  }
+
+  .vspl__section--inner-banner .heading {
+    width: 100%;
+    padding-top: 8rem;
+    text-align: center;
+    position: relative;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__section--inner-banner .heading {
+      padding-top: 8rem
+    }
+  }
+
+  .vspl__section--inner-banner.vspl__banner {
+    height: 50vh;
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    background-color: #004697
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__section--inner-banner.vspl__banner {
+      height: 55vh
+    }
+  }
+
+  .vspl__section--inner-banner.vspl__banner .vspl__container .heading {
+    z-index: 1
+  }
+
+  .vspl__section--inner-banner.vspl__banner .bgAnimation .circle_box {
+    opacity: .1
+  }
+
+  .vspl__section--inner-banner.vspl__banner .heading {
+    max-width: 70rem;
+    margin: 0 auto
+  }
+
+  .vspl__section--inner-banner.vspl__banner h1 {
+    margin-bottom: 2rem;
+    position: relative;
+    color: #fff
+  }
+
+  .vspl__section--inner-banner.vspl__banner h1::after {
+    content: "";
+    width: 9rem;
+    height: .6rem;
+    position: absolute;
+    left: 50%;
+    bottom: -1rem;
+    background-color: #59f3b9;
+    transform: translateX(-50%)
+  }
+
+  .vspl__row--grid-4--image-wp.__video_include figure .image_block,
+  .vspl__section {
+    position: relative
+  }
+
+  .bgAnimation {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0
+  }
+
+  .bgAnimation {
+    left: 0;
+    overflow: hidden
+  }
+
+  .bgAnimation .circle_box {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: .3
+  }
+
+  .bgAnimation .circle_box .circle {
+    width: 80vw;
+    height: 80vw;
+    margin: 10px;
+    border-radius: 50%;
+    display: block;
+    position: absolute;
+    top: 0;
+    background: #fff
+  }
+
+  .bgAnimation .circle_box .delay2 {
+    width: 75vw;
+    height: 75vw
+  }
+
+  .bgAnimation .circle_box .delay3 {
+    width: 70vw;
+    height: 70vw
+  }
+
+  .bgAnimation .circle_box .delay4 {
+    width: 65vw;
+    height: 65vw
+  }
+
+  .vspl__label {
+    margin-bottom: 1.5rem;
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 1.8
+  }
+
+  .vspl__label {
+    color: #004697
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__label {
+      font-size: 1.6rem
+    }
+  }
+
+  .vspl__section--title {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+  }
+
+  .vspl__section--title {
+    border-top: .1rem solid #f7f4ea;
+    border-bottom: .1rem solid #f7f4ea;
+    float: left;
+    overflow: hidden
+  }
+
+  .vspl__section--title--wrapper {
+    display: flex;
+    align-items: center;
+    align-content: center
+  }
+
+  .vspl__section--title a {
+    width: 30%;
+    text-align: right;
+    line-height: 1.2;
+    padding: 1.25rem 0
+  }
+
+  .vspl__section--title--txt {
+    padding: 0 0 0 .3rem;
+    margin: 0;
+    font-family: Kadwa, serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    line-height: 2rem;
+    color: #004697;
+    text-transform: uppercase
+  }
+
+  @media screen and (min-width:576px) {
+    .vspl__section--title--txt {
+      font-size: 1.6rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__section--title--txt {
+      font-size: 2rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__section--title--txt {
+      font-size: 2.2rem
+    }
+  }
+
+  .vspl__section--title--icon {
+    width: 1.8rem;
+    margin-right: .5rem;
+    margin-bottom: 0
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__section--title--icon {
+      width: 2.5rem;
+      margin-right: 0
+    }
+  }
+
+  .vspl__section--title--icon img {
+    width: auto;
+    height: 22px;
+    opacity: .2;
+    vertical-align: baseline;
+    display: block
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__section--title--icon img {
+      padding-top: .15rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__section--title--icon img {
+      height: 2.5rem
+    }
+  }
+
+  .vspl__section--grid-column-2 {
+    width: 100%;
+    float: left
+  }
+
+  .vspl__row--grid-4--image-wp.__video_include figure .image_block::after {
+    content: "";
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: url(https://hindi.thebetterindia.com/wp-content/themes/thebetterindia/build/images/video_icon.svg) no-repeat;
+    background-size: 100%;
+    transform: translate(-50%, -50%)
+  }
+
+  .vspl__section--grid-column-3 {
+    width: 100%;
+    float: left;
+    position: relative;
+    overflow: hidden
+  }
+
+  .vspl__row--grid-3 {
+    width: 100%;
+    margin-bottom: 2rem;
+    padding: 0 1rem 1rem;
+    overflow: hidden;
+    position: relative
+  }
+
+  @media screen and (min-width:576px) {
+    .vspl__row--grid-3 {
+              width: calc(100% / 1 - 18px);
+      margin-left: 0px;
+      margin-bottom: 2.4rem;
+      padding: 0
+    }
+  }
+
+  .vspl__site--header--language--lang ul li:last-child {
+    border: 0
+  }
+
+  @media screen and (min-width:576px) {
+    .vspl__row--grid-3:first-child {
+      margin-left: 0
+    }
+  }
+
+  .vspl__site--header--navigation ul li.current-menu-item a {
+    color: #004697
+  }
+
+  .vspl__section--grid-column-4 {
+    width: 100%;
+    float: left;
+    line-height: 10px
+  }
+
+  .vspl__row--grid-4 {
+    width: calc(100%/2 - 1rem);
+    margin-bottom: 2rem;
+    border-top-right-radius: 1.6rem;
+    float: left;
+    background: #f4f9ff
+  }
+
+  @media screen and (min-width:576px) {
+    .vspl__row--grid-4 {
+      width: calc(100%/2 - 1rem);
+      margin-bottom: 2.4rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__row--grid-4 {
+      width: calc(100%/4 - 1rem)
+    }
+  }
+
+  .vspl__row--grid-4--image-wp.height-auto {
+    height: auto
+  }
+
+  .vspl__row--grid-4--image-wp figure img {
+    width: 100%;
+    max-height: 210px;
+    height: 100%;
+    border-top-right-radius: 1.6rem
+  }
+
+  .vspl__row--grid-4--image-wp figure figcaption {
+    padding: 1rem
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__row--grid-4--image-wp figure figcaption {
+      padding: 1.5rem
+    }
+  }
+
+  @media screen and (min-width:576px) {
+    .vspl__row--grid-4--image-wp.__video_include figure .image_block::after {
+      width: 4rem;
+      height: 4rem
+    }
+  }
+
+  .vspl__section {
+    float: left
+  }
+
+  .primary--title {
+    border-bottom: 5px solid #59f3b9
+  }
+
+  .vspl__site--header {
+    padding: 1.5rem 0;
+    z-index: 999
+  }
+
+  .vspl__site--header .vspl__container__fluid {
+    z-index: 10
+  }
+
+  .vspl__site--header--logo {
+    width: 6.58rem;
+    height: auto
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li.menu-item-has-children ul.sub-menu,
+  .vspl__site--header--logo a.logo img.hover-logo {
+    display: none
+  }
+
+  .vspl__site--header--nav {
+    width: calc(100% - 6.58rem);
+    padding-left: 2rem
+  }
+
+  .vspl__site--header--icon-menu {
+    margin-right: 1rem
+  }
+
+  .vspl__site--header--icon-menu a {
+    width: 2.5rem;
+    height: 2.1rem;
+    margin-right: 1.2rem;
+    display: inline-block
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--header--icon-menu a {
+      display: none
+    }
+  }
+
+  .vspl__site--header--icon-menu a img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__site--header--navigation ul {
+      display: none
+    }
+  }
+
+  .vspl__site--header--navigation ul li {
+    margin-right: 2rem;
+    display: inline
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__site--header--navigation ul li {
+      margin-right: 5rem
+    }
+  }
+
+  .vspl__site--header--navigation ul li a {
+    position: relative;
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: rgb(0 0 0/.75);
+    margin-bottom: 10px;
+    font-weight: 700
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--header--navigation ul li a {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__site--header--navigation ul li a::after {
+    content: "";
+    width: 0;
+    height: .2rem;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background: rgb(0 0 0/.75)
+  }
+
+  .vspl__site--header--navigation ul li.current-menu-item a::after {
+    width: 100%;
+    background: #004697
+  }
+
+  .vspl__site--header--navigation--menu {
+    width: 3.3rem;
+    height: 2.4rem
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--header--navigation--menu {
+      width: 9rem
+    }
+  }
+
+  .vspl__site--header--navigation--menu .desktop-search {
+    top: calc(50% - .4rem);
+    left: 0;
+    z-index: 1;
+    transform: translate(0, -50%)
+  }
+
+  .vspl__site--header--navigation--menu .desktop-search img {
+    width: 3.3rem;
+    height: 3rem
+  }
+
+  .vspl__site--header--navigation--menu .hamburger-icon {
+    width: 3.3rem;
+    height: 2.4rem;
+    top: calc(50% - .4rem);
+    right: 0;
+    z-index: 1;
+    transform: translate(0, -50%)
+  }
+
+  .vspl__site--header--navigation--menu .hamburger-icon .line {
+    height: .4rem;
+    border-top-right-radius: .5rem;
+    right: 0
+  }
+
+  .vspl__site--header--navigation--menu .hamburger-icon .line.line-1 {
+    top: 0
+  }
+
+  .vspl__site--header--navigation--menu .hamburger-icon .line.line-2 {
+    top: 50%
+  }
+
+  .vspl__site--header--navigation--menu .hamburger-icon .line.line-3 {
+    top: 100%
+  }
+
+  .vspl__site--header--language--lang--value {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: #004697;
+    margin-bottom: 10px;
+    font-weight: 700
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--header--language--lang--value {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__site--header--language--lang ul {
+    display: none;
+    width: 12rem;
+    border: solid .1rem rgb(255 255 255/.1);
+    border-radius: .5rem;
+    left: 0;
+    top: 100%;
+    z-index: 99
+  }
+
+  .vspl__site--header--language--lang ul li {
+    border-bottom: solid .1rem rgb(255 255 255/.1)
+  }
+
+  .vspl__site--header--language--lang ul li a {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: #fff;
+    margin-bottom: 10px
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--header--language--lang ul li a {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__site--header--floatingMenu {
+    width: 90%;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    left: 100%;
+    z-index: 9999;
+    overflow: hidden;
+    overflow-y: scroll
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--header--floatingMenu {
+      width: 50%
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__site--header--floatingMenu {
+      width: 30%
+    }
+  }
+
+  .vspl__site--header--floatingMenu--inner {
+    width: 100%;
+    height: auto;
+    padding: 1rem 3rem 0;
+    overflow-y: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none
+  }
+
+  .vspl__site--header--floatingMenu--inner::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    background: 0 0
+  }
+
+  .vspl__site--header--floatingMenu--closeBtn {
+    width: 1.8rem;
+    height: 1.8rem;
+    margin-top: 1.6rem
+  }
+
+  .vspl__site--header--floatingMenu--ctaBtn {
+    font-family: Kadwa, serif;
+    font-size: 1.8rem;
+    font-weight: 700
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation {
+    border-bottom: .1rem solid #f2f2f2;
+    clear: both
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul {
+    list-style: none
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li a {
+    padding: 1rem 0;
+    display: block;
+    font-size: 1.8rem;
+    font-family: Kadwa, serif;
+    color: #303030;
+    text-transform: uppercase
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li.menu-item-has-children>a {
+    position: relative
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li.menu-item-has-children>a::after {
+    content: "";
+    width: 2rem;
+    height: 2rem;
+    position: absolute;
+    right: 0;
+    top: 1rem;
+    background: url(https://hindi.thebetterindia.com/wp-content/themes/thebetterindia/build/images/down-arrow.png) no-repeat;
+    background-size: 100%;
+    transform: rotate(-90deg)
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li.menu-item-has-children ul.sub-menu li {
+    padding-left: 0
+  }
+
+  .vspl__site--header--floatingMenu--mainNavigation ul li.menu-item-has-children ul.sub-menu li a {
+    padding: 1rem 0 1rem 2rem;
+    background: 0 0;
+    font-size: 1.6rem !important
+  }
+
+  .vspl__site--header--floatingMenu--socialLinks {
+    bottom: 0;
+    left: 0
+  }
+
+  .vspl__site--header--floatingMenu--socialLinks ul {
+    padding-left: 0;
+    list-style: none
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--header--floatingMenu--socialLinks ul {
+      border-bottom: .1rem solid #f2f2f2;
+      flex-flow: wrap
+    }
+  }
+
+  .vspl__site--header--floatingMenu--socialLinks ul li {
+    padding: .75rem 1.5rem 0 0;
+    display: inline-block
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--header--floatingMenu--socialLinks ul li {
+      padding: 1rem 2rem 1rem 0
+    }
+  }
+
+  .vspl__site--header--floatingMenu--socialLinks ul li a {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: #555;
+    margin-bottom: 10px
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--header--floatingMenu--socialLinks ul li a {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__site--header--floatingMenu--socialLinks ul li:first-child {
+    padding: 3rem 0 1rem;
+    display: block;
+    color: #004697
+  }
+
+  .vspl__site--header--panel ul {
+    min-height: 20px;
+    list-style-type: none
+  }
+
+  .vspl__site--header--panel ul li {
+    display: inline
+  }
+
+  .vspl__site--header--panel ul li a {
+    font-size: 1.3rem;
+    font-weight: 700
+  }
+
+  .vspl__site--header--panel ul li a img {
+    width: 2rem;
+    margin-bottom: .7rem
+  }
+
+  .vspl__site--header.absolute {
+    position: absolute !important;
+    top: 0;
+    left: 0
+  }
+
+  .vspl__site--header--menuOverlay {
+    display: none;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    background-color: rgb(0 0 0/.6)
+  }
+
+  .vspl__site--header.whitemneu .vspl__site--header--logo img.site-logo {
+    display: block !important
+  }
+
+  .vspl__site--header.whitemneu .vspl__site--header--logo img.hover-logo {
+    display: none !important
+  }
+
+  .vspl__site--header.whitemneu .vspl__site--header--language--lang--value,
+  .vspl__site--header.whitemneu .vspl__site--header--navigation ul li a {
+    color: #fff
+  }
+
+  .vspl__site--header.whitemneu .vspl__site--header--navigation--menu .hamburger-icon .line {
+    background: #fff
+  }
+
+  .vspl__site--footer--path {
+    padding: 1rem 0 0
+  }
+
+  .vspl__site--footer--path .stickyfooterinner {
+    width: 100%;
+    overflow-x: auto
+  }
+
+  .vspl__site--footer--path .stickyfooterinner::-webkit-scrollbar {
+    height: 5px
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__site--footer--path .stickyfooterinner::-webkit-scrollbar {
+      display: none
+    }
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--footer--path .stickyfooterinner ul {
+      justify-content: space-between
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--footer--path .stickyfooterinner ul {
+      justify-content: center
+    }
+  }
+
+  .vspl__site--footer--path .stickyfooterinner ul li {
+    margin-right: 1.5rem;
+    padding: .5rem 2rem;
+    border: 1px solid #c5c5c5
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__site--footer--path .stickyfooterinner ul li {
+      padding: .5rem 3.5rem
+    }
+  }
+
+  .vspl__site--footer--path .stickyfooterinner ul li a {
+    color: #555
+  }
+
+  .vspl__site--footer--path .stickyfooterinner ul li a img {
+    width: 2.5rem;
+    margin-right: .8rem
+  }
+
+  .vspl__header--normal {
+    box-shadow: 0 5px 20px 0 rgb(0 0 0/.05)
+  }
+
+  .whitemneu .vspl__site--header--icon-menu a img,
+  .whitemneu .vspl__site--header--navigation--menu a img {
+    filter: brightness(0) invert(1)
+  }
+
+  .vspl__site--primary-nav li::before {
+    content: "";
+    width: auto;
+    height: 20px;
+    min-width: 18px;
+    margin-top: 1.6rem;
+    position: absolute;
+    left: 0;
+    background-repeat: no-repeat;
+    background-size: contain
+  }
+
+  .vspl__site--community {
+    padding: 2rem 1rem;
+    border-top: 2px solid #ffffffe0
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__site--community {
+      flex-shrink: 0
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__site--community div {
+      flex-direction: column
+    }
+  }
+
+  .vspl__site--community span {
+    font-size: 2.5rem
+  }
+
+  .vspl__site--footer--widgetarea--item h4 {
+    letter-spacing: .075rem
+  }
+
+  @media screen and (max-width:1024px) {
+    .vspl__site--footer--widgetarea--item h4 {
+      margin-bottom: 1.6rem;
+      padding-bottom: 1.6rem;
+      border-bottom: solid 1px rgb(255 255 255/.2)
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__site--footer--widgetarea--item--wrap {
+      margin: 2.5rem -4rem 0
+    }
+  }
+
+  .vspl__site--footer--widgetarea--item--list {
+    border-bottom: solid 1px rgb(255 255 255/.2)
+  }
+
+  @media screen and (min-width:1024px) {
+    .vspl__site--footer--widgetarea--item--grid {
+      width: calc(100%/4);
+      margin-bottom: 0 !important;
+      padding: 0 0 0 4rem !important
+    }
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__site--footer--widgetarea--item--grid--category {
+      padding: 2rem 0;
+      border-bottom: solid 1px rgb(255 255 255/.2);
+      column-count: 2
+    }
+  }
+
+  .vspl__site--footer--widgetarea--item--grid--category li {
+    margin-bottom: .5rem
+  }
+
+  .vspl__site--footer--widgetarea--item--grid--category li a {
+    line-height: 1.2;
+    font-weight: 700
+  }
+
+  .vspl__site--footer--widgetarea--item--title {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    color: #fff;
+    margin-bottom: 10px;
+    line-height: 1.2
+  }
+
+  @media screen and (min-width:1600px) {
+    .vspl__site--footer--widgetarea--item--title {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__site--footer--widgetarea--item--newsletter {
+      margin: 2rem auto 6rem
+    }
+  }
+
+  .vspl__scrolltop {
+    display: none;
+    padding: .5rem;
+    border: 2px solid #004697;
+    border-radius: 50%;
+    right: 3rem;
+    bottom: 2rem;
+    z-index: 10
+  }
+
+  @media screen and (max-width:768px) {
+    .vspl__scrolltop {
+      right: 1rem;
+      bottom: 7rem
+    }
+
+    .vspl__scrolltop img {
+      width: 3rem
+    }
+  }
+
+  @font-face {
+    font-family: Kadwa;
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap
+  }
+
+  h1 {
+    font-family: Kadwa, serif;
+    font-size: 2.5rem;
+    line-height: 1.8;
+    color: #555;
+    font-weight: 700;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h1 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h1 {
+      font-size: 3rem
+    }
+  }
+
+  @media screen and (min-width:1280px) {
+    h1 {
+      font-size: 3.2rem
+    }
+  }
+
+  h2 {
+    font-family: Kadwa, serif;
+    font-size: 2.3rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h2 {
+      font-size: 2.6rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h2 {
+      font-size: 2.8rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h2 {
+      font-size: 3rem
+    }
+  }
+
+  h3 {
+    font-family: Kadwa, serif;
+    font-size: 2.1rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h3 {
+      font-size: 2.4rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h3 {
+      font-size: 2.6rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h3 {
+      font-size: 2.8rem
+    }
+  }
+
+  h4 {
+    font-family: Kadwa, serif;
+    font-size: 1.7rem;
+    line-height: 1.2;
+    color: #555;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin: 0
+  }
+
+  @media screen and (min-width:576px) {
+    h4 {
+      font-size: 1.8rem
+    }
+  }
+
+  @media screen and (min-width:1024px) {
+    h4 {
+      font-size: 2.2rem
+    }
+  }
+
+  @media screen and (min-width:1600px) {
+    h4 {
+      font-size: 2.4rem
+    }
+  }
+
+  p {
+    font-family: Kadwa, serif;
+    font-size: 1.6rem;
+    line-height: 2;
+    color: #555;
+    margin: 0 0 10px
+  }
+
+  @media screen and (min-width:1600px) {
+    p {
+      font-size: 1.8rem;
+      line-height: 2.2
+    }
+  }
+
+  .vspl__popup--wrapper {
+    z-index: 1000
+  }
+
+  #vspl__deep-dive,
+  #vspl__deep-dive figcaption h3 {
+    margin-bottom: 0
+  }
+
+  .vspl__video-stories figcaption h3 {
+    color: #555;
+    font-style: normal;
+    line-height: 1.7;
+    font-size: 1.5rem
+  }
+
+  .vspl__deepdives--item:first-child {
+    margin-left: 0
+  }
+
+  .vspl__dd-item {
+    box-shadow: 0 3px 6px 0 rgb(0 0 0/.16);
+    scroll-snap-align: center
+  }
+
+  .vspl__dd-item img {
+    min-height: 150px
+  }
+
+  .vspl__kk--ytvideo {
+    width: 100%
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__kk--ytvideo {
+      width: calc(100%/3 - 1.8rem)
+    }
+  }
+
+  .vspl__kk--ytvideo--img {
+    max-height: 180px !important
+  }
+
+  .vspl__safalnama--banner-playBtn {
+    height: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1;
+    background: #0000003d
+  }
+
+  .vspl__safalnama--banner-playBtn-icon {
+    width: 32px !important
+  }
+
+  @media screen and (min-width:1280px) {
+    .vspl__safalnama--banner-playBtn-icon {
+      width: 50px !important
+    }
+  }
+
+  .vspl__kk--banner img,
+  .vspl__safalnama--banner img {
+    display: block;
+    width: 100%;
+    height: auto
+  }
+
+  @media screen and (min-width:768px) {
+    .vspl__safalnama--video-card {
+      padding: .5rem
+    }
+
+    .vspl__safalnama--video-card:nth-child(3n+1) {
+      margin-left: 0
+    }
+  }
+
+  .vspl__kk--video-card-inner,
+  .vspl__safalnama--video-card-inner {
+    height: 21.9rem;
+    box-shadow: 0 3px 6px 0#0000003b
+  }
+
+  .vspl__kk--video-card-inner.height-auto,
+  .vspl__safalnama--video-card-inner.height-auto {
+    height: auto
+  }
+
+  .search-bar {
+    width: 100%;
+    border: 5px solid #004797;
+    position: relative;
+    float: left
+  }
+
+  .search-bar button {
+    width: 1.8rem;
+    margin: auto;
+    top: 0;
+    right: 1.8rem;
+    bottom: 0;
+    background: 0 0
+  }
+
+  .search-bar ::placeholder {
+    opacity: .6;
+    color: #555
+  }
+
+  .vspl__row {
+    width: 100%;
+    float: left;
+    position: relative
+  }
+
+  .vspl__section {
+    width: 100%;
+    display: block
+  }
+
+  .vspl__item--video .video--play {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+  }
+
+  .vspl__item--video {
+    margin-bottom: 2rem
+  }
+
+  @media screen and (max-width:576px) {
+    .vspl__item--video {
+      padding: 0
+    }
+  }
+
+  .vspl__item--video a {
+    height: 100%;
+    position: relative;
+    display: block;
+    background-color: #f4f9ff;
+    font-weight: 600
+  }
+
+  .vspl__item--video figure {
+    display: block;
+    position: relative;
+    z-index: 0
+  }
+
+  .vspl__item--video figure .thumbnail {
+    width: 100%;
+    border-top-right-radius: 1.6rem
+  }
+
+  .vspl__item--video label {
+    min-height: 30px;
+    margin: 0 !important;
+    padding: 2rem 1rem;
+    display: block;
+    font-family: Kadwa, serif;
+    font-size: 1.3rem;
+    line-height: 1.7
+  }
+
+  .vspl__item--video .video--play {
+    height: 100%;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0
+  }
+
+  .vspl__item--video .video--icon {
+    width: 52px;
+    height: auto
+  }
+
+  p a {
+    word-break: break-word
+  }
+}
+
+.article .left_side {
+  width: 100% !important;
+}
+
+.article-data {
+  max-width: 100% !important;
+}
+
+.article-title {
+  display: none;
+}
+.article .left_side {
+    width: 100% !important;
+}
+.article-data {
+    max-width: 100% !important;
+}
+.article-title {
+    display: none;
+}
+.v2-footer-section .newsletter-section .title {
+    color: white !important;
+    font-family: 'Roboto';
+}
